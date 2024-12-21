@@ -1,4 +1,4 @@
-## <div align="center">Web Framework</div>
+## <div align="center">Stack</div>
 <div align="center"><a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </a><a href="https://www.djangoproject.com">
