@@ -1,4 +1,4 @@
-## <div align="center">Web Frameworke</div>
+## <div align="center">Web Framework</div>
 <div align="center"><a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 </a><a href="https://www.djangoproject.com">
@@ -15,7 +15,7 @@
 <br>
 
 
-## <div align="center">DataBasee</div>
+## <div align="center">DataBase</div>
 
 <div align="center"><a href="https://www.postgresql.org/about/policies/trademarks/">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
